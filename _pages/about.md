@@ -10,4 +10,4 @@ The writing here is focused on one issue:
 
 Writing is informed by the connections between urban/environmental research, ecology, culture.
 
-![subsurface](https://0subsurface0.github.io/assets/images/massbalance.gif "massbalance")
+![subsurface](https://0subsurface0.github.io/assets/images/massbalance.gif)
